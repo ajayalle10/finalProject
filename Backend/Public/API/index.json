@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "authorName": "Alice Johnson",
+      "createdDate": "2024-11-01T10:30:00Z",
+      "blogPicture": "https://example.com/images/blog1.jpg",
+      "blogTitle": "Exploring the Wonders of Artificial Intelligence",
+      "blogDescription": "An in-depth look at how AI is transforming industries and enhancing everyday life."
+    },
+    {
+      "id": 2,
+      "authorName": "Michael Smith",
+      "createdDate": "2024-11-03T14:20:00Z",
+      "blogPicture": "https://example.com/images/blog2.jpg",
+      "blogTitle": "Top 10 Travel Destinations for 2025",
+      "blogDescription": "Discover the most breathtaking and unique travel spots for the upcoming year."
+    },
+    {
+      "id": 3,
+      "authorName": "Sophia Williams",
+      "createdDate": "2024-11-05T09:45:00Z",
+      "blogPicture": "https://example.com/images/blog3.jpg",
+      "blogTitle": "The Future of Renewable Energy",
+      "blogDescription": "How solar, wind, and other renewable sources are powering a sustainable future."
+    },
+    {
+      "id": 4,
+      "authorName": "James Brown",
+      "createdDate": "2024-11-07T16:10:00Z",
+      "blogPicture": "https://example.com/images/blog4.jpg",
+      "blogTitle": "Mastering the Art of Remote Work",
+      "blogDescription": "Tips and tools for staying productive and connected while working from home."
+    },
+    {
+      "id": 5,
+      "authorName": "Emily Davis",
+      "createdDate": "2024-11-09T12:00:00Z",
+      "blogPicture": "https://example.com/images/blog5.jpg",
+      "blogTitle": "A Beginner's Guide to Cryptocurrency",
+      "blogDescription": "Understanding the basics of Bitcoin, Ethereum, and blockchain technology."
+    }
+  ]
+  
